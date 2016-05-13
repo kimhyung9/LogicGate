@@ -11,6 +11,7 @@
 
 
 // CLogicGateApp:
+//
 // See LogicGate.cpp for the implementation of this class
 //
 //
